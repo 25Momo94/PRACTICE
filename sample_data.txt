@@ -1,0 +1,17 @@
+Category,Value
+Valid Mobile Number,+1-202-555-0173
+Valid Mobile Number,(555) 123-4567
+Valid Mobile Number,9876543210
+Valid Mobile Number,+44 7911 123456
+Invalid Mobile Number,12345
+Invalid Mobile Number,555-ABCD-7890
+Invalid Mobile Number,0000000000
+Invalid Mobile Number,+99-9999999999999
+Words,"Hello, this is a test message!"
+Words,"Random text: Apple, Banana, Mango."
+Words,Contact me at $%^&* if you can.
+Special Characters,@#&*!
+Special Characters,$%^&*
+Multiline Text,This is line one.
+Multiline Text,This is line two with a number: 12345.
+Multiline Text,End of the text with symbols: @#&*!
